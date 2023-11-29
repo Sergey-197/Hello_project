@@ -1,0 +1,14 @@
+C:\Users\пк\Desktop\Examples\Example005_ConditionalIfElse\obj\Debug\net7.0\Example005_ConditionalIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пк\Desktop\Examples\Example005_ConditionalIfElse\obj\Debug\net7.0\Example005_ConditionalIfElse.AssemblyInfoInputs.cache
+C:\Users\пк\Desktop\Examples\Example005_ConditionalIfElse\obj\Debug\net7.0\Example005_ConditionalIfElse.AssemblyInfo.cs
+C:\Users\пк\Desktop\Examples\Example005_ConditionalIfElse\obj\Debug\net7.0\Example005_ConditionalIfElse.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Examples\Example005_ConditionalIfElse\bin\Debug\net7.0\Example005_ConditionalIfElse.exe
+C:\Users\пк\Desktop\Examples\Example005_ConditionalIfElse\bin\Debug\net7.0\Example005_ConditionalIfElse.deps.json
+C:\Users\пк\Desktop\Examples\Example005_ConditionalIfElse\bin\Debug\net7.0\Example005_ConditionalIfElse.runtimeconfig.json
+C:\Users\пк\Desktop\Examples\Example005_ConditionalIfElse\bin\Debug\net7.0\Example005_ConditionalIfElse.dll
+C:\Users\пк\Desktop\Examples\Example005_ConditionalIfElse\bin\Debug\net7.0\Example005_ConditionalIfElse.pdb
+C:\Users\пк\Desktop\Examples\Example005_ConditionalIfElse\obj\Debug\net7.0\Example005_ConditionalIfElse.dll
+C:\Users\пк\Desktop\Examples\Example005_ConditionalIfElse\obj\Debug\net7.0\refint\Example005_ConditionalIfElse.dll
+C:\Users\пк\Desktop\Examples\Example005_ConditionalIfElse\obj\Debug\net7.0\Example005_ConditionalIfElse.pdb
+C:\Users\пк\Desktop\Examples\Example005_ConditionalIfElse\obj\Debug\net7.0\Example005_ConditionalIfElse.genruntimeconfig.cache
+C:\Users\пк\Desktop\Examples\Example005_ConditionalIfElse\obj\Debug\net7.0\ref\Example005_ConditionalIfElse.dll
